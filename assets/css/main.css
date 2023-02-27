@@ -273,7 +273,6 @@ input, select, textarea {
 				font-size: 12pt;
 				font-size: 1.1vmax;
 			}
-
 		}
 
 		@media screen and (max-width: 1280px) {
@@ -282,7 +281,7 @@ input, select, textarea {
 				font-size: 11pt;
 				font-size: 1.5vmax;
 			}
-
+			
 		}
 
 	body, input, select, textarea {
